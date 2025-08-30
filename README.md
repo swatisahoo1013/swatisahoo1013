@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 An aspiring AI and Web Developer from India
 -------------------------------------------
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [swati.s.sahoo182@gmail.com](mailto:swati.s.sahoo182@gmail.com)
 * 🧠  I'm currently learning Java
 
 <p align="left">
@@ -26,7 +24,3 @@ src="https://img.shields.io/github/followers/swatisahoo1013?logo=github&style=fo
 <a href="http://www.github.com/swatisahoo1013"><img src="https://github-readme-streak-stats.herokuapp.com/?user=swatisahoo1013&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/swatisahoo1013" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatisahoo1013&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/swatisahoo1013/library-management-system" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=swatisahoo1013&repo=library-management-system&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/swatisahoo1013/Chatbot-ai-" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=swatisahoo1013&repo=Chatbot-ai-&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
